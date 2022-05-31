@@ -1,8 +1,4 @@
 ### Hi there 👋
-
-<!--
-**Sharma-atharva/Sharma-atharva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h1 align="center">Hi 👋, I'm Atharva Sharma</h1>
 <h3 align="center">👨I am a sophomore at Vellore Institute of Technology, India pursuing Bachelors in Computer Science Engineering</h3>
 
