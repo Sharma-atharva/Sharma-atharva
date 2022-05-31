@@ -4,7 +4,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sharmaathatva&label=Profile%20views&color=0e75b6&style=flat" alt="sharmaathatva" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharmaathatva" alt="sharmaathatva" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sharma-athatva" alt="Sharma-athatva" /></a> </p>
 
 - 🔭 I’m currently working on **Developing Skills in fields of Software and WebDevelopment**
 
