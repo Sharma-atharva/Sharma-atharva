@@ -89,5 +89,5 @@
 
 
 ## Contribution Graph:
-![snake gif](https://github.com/sharma-atharva/Sharma-atharva/blob/output/github-contribution-grid-snake.svg)  
+![snake gif](https://github.com/Sharma-atharva/Sharma-atharva/blob/output/github-contribution-grid-snake.svg)  
 
