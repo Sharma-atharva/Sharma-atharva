@@ -81,8 +81,8 @@
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/sharma-atharva/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=sharma-atharva">
+<a href="https://github.com/Sharma-atharva/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Sharma-atharva">
 </a>
 <a href="https://github.com/sharma-atharva?tab=followers"><img src="https://img.shields.io/github/followers/Sharma-atharva?label=Followers&style=social" alt="GitHub Badge"></a>
 
