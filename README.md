@@ -47,14 +47,14 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/sharma-atharva/github-readme-streak-stats">
+    <a href="https://github.com/Sharma-atharva/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Atharva's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sharma-atharva&theme=nightowl&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
-<a href="https://github.com/sharma-atharva/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sharma-atharva&show_icons=true&include_all_commits=true&theme=nightowl&hide_border=true" alt="Atharva's github stats" /></a> | <a href="https://github.com/sharma-atharva/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharma-atharva&layout=compact&theme=nightowl&hide_border=true" /></a> |
+<a href="https://github.com/Sharma-atharva/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sharma-atharva&show_icons=true&include_all_commits=true&theme=nightowl&hide_border=true" alt="Atharva's github stats" /></a> | <a href="https://github.com/sharma-atharva/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharma-atharva&layout=compact&theme=nightowl&hide_border=true" /></a> |
 
 
 <br />
@@ -65,7 +65,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/sharma-atharva/github-readme-activity-graph" align="center"><img alt="Atharva's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sharma-atharva&bg_color=0D1117&color=5BCDEC&line=3fb950&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Sharma-atharva/github-readme-activity-graph" align="center"><img alt="Atharva's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Sharma-atharva&bg_color=0D1117&color=5BCDEC&line=3fb950&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
