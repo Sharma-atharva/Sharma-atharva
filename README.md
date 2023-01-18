@@ -54,7 +54,7 @@
 
 ## 📊 My Github Stats
 
-<a href="https://github.com/Sharma-atharva/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sharma-atharva&show_icons=true&include_all_commits=true&theme=nightowl&hide_border=true" alt="Atharva's github stats" /></a> | <a href="https://github.com/sharma-atharva/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharma-atharva&layout=compact&theme=nightowl&hide_border=true" /></a> |
+<a href="https://github.com/Sharma-atharva/github-readme-stats"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sharma-atharva&show_icons=true&include_all_commits=true&theme=nightowl&hide_border=true" alt="Atharva's github stats" /></a> | <a href="https://github.com/sharma-atharva/github-readme-stats"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sharma-atharva&layout=compact&theme=nightowl&hide_border=true" /></a> |
 
 
 <br />
