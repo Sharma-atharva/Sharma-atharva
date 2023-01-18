@@ -46,16 +46,13 @@
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 <br/>
 
-<p align="center">
-    <a href="https://github.com/Sharma-atharva/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Atharva's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sharma-atharva&theme=nightowl&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
+
 
 ## 📊 My Github Stats
-
-<a href="https://github.com/Sharma-atharva/github-readme-stats"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sharma-atharva&show_icons=true&include_all_commits=true&theme=nightowl&hide_border=true" alt="Atharva's github stats" /></a> | <a href="https://github.com/sharma-atharva/github-readme-stats"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sharma-atharva&layout=compact&theme=nightowl&hide_border=true" /></a> |
-
+<div align="center">
+<img width="370px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sharma-atharva&show_icons=true&theme=vue-dark&hide_border=true&bg_color=0D111700&custom_title=Atharva's+Github+Stats" alt="Atharva's Github stats" />
+<img width="370px" src="http://github-readme-streak-stats.herokuapp.com?user=Sharma-atharva&theme=vue-dark&hide_border=true&background=0D111700&border=943BDD00" />
+</div>
 
 <br />
   <br/>
@@ -65,9 +62,11 @@
 <br/>
 <br/>
 
-<a href="https://github.com/Sharma-atharva/github-readme-activity-graph" align="center"><img alt="Atharva's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Sharma-atharva&bg_color=0D1117&color=5BCDEC&line=3fb950&point=FFFFFF&hide_border=true" /></a>
-
+<a href="https://github.com/Sharma-atharva/github-readme-activity-graph" align="center"><img alt="Atharva's Activity Graph" src="https://activity-graph.cyclic.app/graph?username=Sharma-atharva&bg_color=0D1117&color=5BCDEC&line=3fb950&point=FFFFFF&hide_border=true" /></a>
+     
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Sharma-atharva&theme=gotham&bg_color=0D1117&color=5BCDEC&line=3fb950&point=FFFFFF&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br/>
+  
 <br/>
 
 ## Connect with me:
