@@ -64,8 +64,8 @@
 
 <a href="https://github.com/Sharma-atharva/github-readme-activity-graph" align="center"><img alt="Atharva's Activity Graph" src="https://activity-graph.cyclic.app/graph?username=Sharma-atharva&bg_color=0D1117&color=5BCDEC&line=3fb950&point=FFFFFF&hide_border=true" /></a>
      
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Sharma-atharva&theme=gotham&bg_color=0D1117&color=5BCDEC&line=3fb950&point=FFFFFF&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<br/>
+<!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Sharma-atharva&theme=gotham&bg_color=0D1117&color=5BCDEC&line=3fb950&point=FFFFFF&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<br/> -->
   
 <br/>
 
