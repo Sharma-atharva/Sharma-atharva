@@ -7,7 +7,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌐 I’m currently exploring **Open source projects while building on Web-Dev and Python.**
+- 🌐 I’m currently exploring **Open source projects while building on Web-Dev and Java.**
 
 - 📚 I’m currently learning **Javascript & Backend Web-dev**
 
