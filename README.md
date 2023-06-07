@@ -1,6 +1,6 @@
 <div align='left'>
   <img align='right' src='/img.png' width="50%">
-<h1 align="left">Hello!, I'm Atharva</h1>
+<h1 align="left">Heyy!, I'm Atharva</h1>
 <h3 align="left">I'm a passionate Web Developer from India.</h3>
 
 
