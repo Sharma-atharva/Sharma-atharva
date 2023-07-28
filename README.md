@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Frontend Development & UI/UX Designing!**
 
-- 🎢 Fun fact **I love meeting new people ;)**
+- 🎢 Fun fact **I love meeting new people :)**
 
 ## 🚀 Languages and Tools:
 
